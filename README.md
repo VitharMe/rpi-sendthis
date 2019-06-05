@@ -7,7 +7,7 @@ When you run the container, it looks  the **ssmtp.conf** and the **variables**.
 Then send the mail.
 
 ### How To run
-Edit ssmtp.conf with your parameters and mount it. folder the path where you want.
+Edit ssmtp.conf with your parameters and mount it. Then:
 #### Send message
 ```
 docker run  --rm \ 
